@@ -29,3 +29,4 @@ IP-CIDR, 101.36.166.16/32, no-resolve
 IP-CIDR, 180.96.2.114/32, no-resolve
 DOMAIN-SUFFIX,zijieapi.com
 DOMAIN,p26-be-pack-sign.pglstatp-toutiao.com
+DOMAIN,polaris3-normal-lf.zijieapi.com
