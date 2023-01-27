@@ -30,3 +30,4 @@ IP-CIDR, 180.96.2.114/32, no-resolve
 DOMAIN-SUFFIX,zijieapi.com
 DOMAIN-SUFFIX,pangolin-sdk-toutiao.com
 DOMAIN,toutiao-frontier.snssdk.com
+DOMAIN, adim.pinduoduo.com
