@@ -28,3 +28,4 @@ IP-CIDR, 117.92.229.188/32, no-resolve
 IP-CIDR, 101.36.166.16/32, no-resolve
 IP-CIDR, 180.96.2.114/32, no-resolve
 DOMAIN-SUFFIX,zijieapi.com
+DOMAIN,p9-be-pack-sign.pglstatp-toutiao.com
